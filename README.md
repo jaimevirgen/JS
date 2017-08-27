@@ -7,10 +7,11 @@
 </h1>
 
 # JavaScript
-Javascript Lessons
+Javascript lessons intended to focus on real-world examples for specific functionality. Solutions are not provided but have all necessary material to accomplish certain prime directive of the lesson.
 
 ## Syllabus
 > [Lesson 00](https://github.com/jaimevirgen/JS/tree/master/lessons/lesson_00) - Introduction
+
 > [Lesson 01](https://github.com/jaimevirgen/JS/tree/master/lessons/lesson_01) - Dom Events
 
 ## Learning Resources
