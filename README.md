@@ -11,3 +11,8 @@ Javascript Lessons
 
 ## Syllabus
 > [Lesson 00](https://github.com/jaimevirgen/JS/tree/master/lessons/lesson_00) - Introduction
+
+## Learning Resources
+- [AirBnB JS StyleGuide](https://github.com/airbnb/javascript) Properly written JS
+- [MDN JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) Deep Documentation on Syntax
+- [Eloquent JS](http://eloquentjavascript.net/) Fluency in JS
