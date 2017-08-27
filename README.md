@@ -11,6 +11,7 @@ Javascript Lessons
 
 ## Syllabus
 > [Lesson 00](https://github.com/jaimevirgen/JS/tree/master/lessons/lesson_00) - Introduction
+> [Lesson 01](https://github.com/jaimevirgen/JS/tree/master/lessons/lesson_01) - Dom Events
 
 ## Learning Resources
 - [AirBnB JS StyleGuide](https://github.com/airbnb/javascript) Properly written JS
