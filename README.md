@@ -6,5 +6,8 @@
 	<br>
 </h1>
 
-# JS
+# JavaScript
 Javascript Lessons
+
+## Syllabus
+> [Lesson 00] (https://github.com/jaimevirgen/JS/lessons/lesson_00) - Introduction
