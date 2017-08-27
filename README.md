@@ -18,3 +18,4 @@ Javascript lessons intended to focus on real-world examples for specific functio
 - [AirBnB JS StyleGuide](https://github.com/airbnb/javascript) Properly written JS
 - [MDN JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) Deep Documentation on Syntax
 - [Eloquent JS](http://eloquentjavascript.net/) Fluency in JS
+- [JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) Software Engineering Principles
