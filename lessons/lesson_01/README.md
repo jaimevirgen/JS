@@ -10,5 +10,7 @@ when the "Enter" key is pressed.
 
 ### Required Readings
 > [MDN Web Events](https://developer.mozilla.org/en-US/docs/Web/Events)
+
 > [Event Handling in Depth](http://eloquentjavascript.net/14_event.html)
+
 > [Onclick vs addEventListeners](https://www.simonewebdesign.it/onclick-vs-addeventlistener/)
