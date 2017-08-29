@@ -14,6 +14,8 @@ Javascript lessons intended to focus on real-world examples for specific functio
 
 > [Lesson 01](https://github.com/jaimevirgen/JS/tree/master/lessons/lesson_01) - Dom Events
 
+> [Lesson 02](https://github.com/jaimevirgen/JS/tree/master/lessons/lesson_02) - Web Storage
+
 ## Learning Resources
 - [AirBnB JS StyleGuide](https://github.com/airbnb/javascript) Properly written JS
 - [MDN JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) Deep Documentation on Syntax
