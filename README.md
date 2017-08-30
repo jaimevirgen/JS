@@ -16,8 +16,11 @@ Javascript lessons intended to focus on real-world examples for specific functio
 
 > [Lesson 02](https://github.com/jaimevirgen/JS/tree/master/lessons/lesson_02) - Web Storage
 
+> [Lesson 03](https://github.com/jaimevirgen/JS/tree/master/lessons/lesson_03) - Data Structures - Arrays
+
 ## Learning Resources
 - [AirBnB JS StyleGuide](https://github.com/airbnb/javascript) Properly written JS
 - [MDN JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) Deep Documentation on Syntax
 - [Eloquent JS](http://eloquentjavascript.net/) Fluency in JS
 - [JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) Software Engineering Principles
+- [ES6](http://exploringjs.com/es6/index.html#toc_ch_modules)
